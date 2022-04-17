@@ -5,7 +5,7 @@
 ## Pre-Mint Verification:
 
 **Step 1:**
-Your NFT metadata should add an additional “blocks_data” field which contains the transaction id of the Blocks transaction. The default metadata fields with verification would look like this:
+Your NFT metadata should add an additional “blocks_data” field which contains the transaction id of the BLOCKS transaction. The default metadata fields with verification would look like this:
 
 ```
 {
