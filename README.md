@@ -44,7 +44,7 @@ The NFT metadata does not contain the “blocks_data” field because it has alr
 **Step 1:**
 Fetch your NFT metadata and create a SHA256 hash.
 
-Hash this: ```'{"name":"NFT Project Name","image":"https://imageurl","description":"This is an NFT."}'```
+Hash the metadata: ```'{"name":"NFT Project Name","image":"https://imageurl","description":"This is an NFT."}'```
 Generated hash: ```D94D0234B3CA98C1657029D1919EC41B6D251026FAE57A81C5D9AE1A64562EC4```
 
 **Step 2:**
